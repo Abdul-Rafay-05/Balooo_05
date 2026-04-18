@@ -1,0 +1,11 @@
+import os
+
+# specify directory path (or leave empty for current folder and also use /?? and something for specific directory)
+path = "."
+
+# get list of files and directories
+contents = os.listdir(path)
+
+# print each item
+for item in contents:
+    print(item)
