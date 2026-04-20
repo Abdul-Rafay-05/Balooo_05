@@ -1,0 +1,6 @@
+# using this code you find the lenght of any String(no matter how long or how short it is
+
+name = "Abdul Rafay"
+
+print (len(name))
+
